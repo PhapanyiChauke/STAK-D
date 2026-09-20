@@ -21,7 +21,7 @@ Year: 2026
 4. Interactive Next/Previous Buttons and Toggle between 3 burgers with animation.
 5. Burger Circle Selector - Changes when you click on a main burger and update layers.
 
-# Links
+## Live Demo
 
 1. [Live Demo - Burger Circle Selector]
 (https://www.figma.com/proto/2F7Grovf1Q83Sr4fIYQCXr/Untitled?node-id=731-76&t=WyfW44DzyA6EWyVC-0&scaling=scale-down&content-scaling=fixed&page-id=498%3A30&starting-point-node-id=731%3A76)
