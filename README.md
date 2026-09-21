@@ -1,4 +1,4 @@
-# STAK-D
+# STAK'D
 
 One bite takes you somewhere you have never been.
 Est. 2026
